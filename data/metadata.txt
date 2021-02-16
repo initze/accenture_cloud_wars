@@ -1,0 +1,24 @@
+Authors: Ingmar Nitze (ingmar.nitze@awi.de), Sophia Barth
+
+Description:
+Digitized polygons of retrogressive thaw slumps.
+
+Format: ESRI Shapefile (Polygons)
+Projection: EPSG:4326 (Lat/Lon WGS84)
+
+------------------------
+Dataset 1:
+merged_thaw_slumps_validated.zip
+Small set of validated (digitized + validated) thaw slumps
+
+Dataset 2:
+merged_thaw_slumps.zip
+Large set of digitized (most non validated/double-checked) thaw slumps
+
+DS1 and DS2 both contain information on the original Planet image (image_id) and acquisition date (image_date)
+-----------------------
+
+Dataset 3:
+sites.zip
+Extent of study sites. Information within each study area can be assumed complete (*in most cases) per image date
+* some original image content may have been affected by clouds/shadow and information was not available.
